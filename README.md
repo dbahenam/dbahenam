@@ -1,4 +1,4 @@
-- 👋🏽 Hi, I’m @dbahenam
+- 👋🏽 Hi, I’m David Bahena Moctezuma
 - 👀 I’m interested in Software Engineering and Machine Learning concepts
 - 👨🏽‍💻 I graduated with a degree in Electrical Engineering from the University of California, San Diego
 - 📫 davidbahenam04@gmail.com
